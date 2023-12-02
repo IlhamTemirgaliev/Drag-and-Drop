@@ -11,6 +11,7 @@ function App() {
      <div>
       <h1>
         hello world
+        <Random/>
         <Button/>
         <Input/>
       </h1>
